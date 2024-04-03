@@ -21,9 +21,9 @@ And I also love cats
 
 <h3 align="left">My Bootcamp Projects:</h3>
 
-- <a href=https://www.hobbyconnect.lol/>HobbyConnect</a>: A fun and straightforward mobile web app to connect people with an icon-based matching system for quick connections as well as the possibility to create events and share them.
+- <a href=https://www.hobbyconnect.lol/ target="_blank">HobbyConnect</a>: A fun and straightforward mobile web app to connect people with an icon-based matching system for quick connections as well as the possibility to create events and share them.
 
-- <a href=https://frock-o-clock-1af00f972081.herokuapp.com/>Frock O Clock</a>: A airbnb clone for costumes.
+- <a href=https://frock-o-clock-1af00f972081.herokuapp.com/ target="_blank">Frock O Clock</a>: A airbnb clone for costumes.
 
 
 -----
