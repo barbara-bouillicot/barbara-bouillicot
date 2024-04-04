@@ -35,7 +35,7 @@ And I also love cats
 ----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/barbara-bouillicot-a8762010a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara-bouillicot-a8762010a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/barbara-bouillicot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara-bouillicot-a8762010a" height="30" width="40" /></a>
 <a href="mailto:barbara.bouillicot@hotmail.fr?" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40"/></a>
 </p>
 
