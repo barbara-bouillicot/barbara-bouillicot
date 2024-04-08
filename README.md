@@ -9,7 +9,7 @@ Former tax consultant, I'm now a **Junior Web Developer**, who graduated from Le
 
 - 👯 I’m looking to collaborate on **any cool and challenging projects**
 
-- 👨‍💻 All of my projects are available 👉 [there]()
+- 👨‍💻 All of my projects are available 👉 [there](https://www.barbarabouillicot.com)
 
 
 
